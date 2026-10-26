@@ -12,4 +12,5 @@ window.siteLinks = [
   { number: '10', title: 'X', description: 'Thoughts in shorter form.', url: 'https://x.com/AbhijeetKakade0' },
   { number: '11', title: 'Telegram', description: 'Say hello directly.', url: 'https://t.me/abhijeet_kakade' },
   { number: '12', title: 'Resume', description: 'The more official version of me.', url: 'https://abhijeetkakade.in/CV.pdf' },
+  { number: '13', title: 'Experiments', description: 'A little graveyard of ideas and things I tried.', url: 'https://experimentwith.abhijeetkakade.in/' },
 ];
