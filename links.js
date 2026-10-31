@@ -1,6 +1,6 @@
 // Edit all destinations here. Keep unknown URLs null until confirmed.
 window.siteLinks = [
-  { number: '01', title: 'Watch', description: 'Tech videos, builds, and how things work.', url: null },
+  { number: '01', title: 'Watch', description: 'Tech videos, builds, and how things work.', url: 'https://www.youtube.com/@chronicallyonlineabhi' },
   { number: '02', title: 'Read', description: 'Notes from the things I make and learn.', url: 'https://blogs.abhijeetkakade.in' },
   { number: '03', title: 'Portfolio', description: 'A fuller look at my work and story.', url: 'https://abhijeetkakade.in/' },
   { number: '04', title: 'Follow', description: 'The more chronically online side of things.', url: 'https://www.instagram.com/chronicallyonlineabhi/' },
